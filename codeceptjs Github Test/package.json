@@ -1,0 +1,12 @@
+{
+	"name": "percona-1",
+	"dependencies": {
+		"codeceptjs": "^2.0.8",
+		"codeceptjs-resemblehelper": "^1.5.0",
+		"puppeteer": "^1.13.0",
+		"webdriver": "^5.7.6"
+	},
+	"devDependencies": {
+		"selenium-standalone": "^6.16.0"
+	}
+}
