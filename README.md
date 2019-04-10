@@ -2,11 +2,11 @@
 
 # Codeceptjs Github tester
 * It tests working of  login form of github.com
-Test Failed with error message of Incorrect Username or Password
+* Test Failed with error message of Incorrect Username or Password
 
 # Codeceptjs-Google-test
 * It test working of search bar of google.com
-Test Passed
+* Test Passed
 
 # Codeceptjs-resemblehelper Sample test
 * Implementation of Codeceptjs-resemblehelper
