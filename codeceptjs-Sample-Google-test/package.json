@@ -1,0 +1,11 @@
+{
+   "name": "percona",
+   "dependencies": {
+      "codeceptjs-resemblehelper": "^1.5.0"
+   },
+   "devDependencies": {
+      "codeceptjs": "^2.0.7",
+      "puppeteer": "^1.13.0",
+      "webdriverio": "^5.7.2"
+   }
+}
